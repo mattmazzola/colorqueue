@@ -1,6 +1,6 @@
 {
   "name": "colorqueue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library which takes a queue of colors and an instance of LED strip. It animates from color to color using the transition specified and sends the current color to the LED strip.",
   "main": "./dist/colorqueue.js",
   "typings": "./dist/colorqueue.d.ts",
@@ -26,9 +26,6 @@
   },
   "homepage": "https://github.com/mattmazzola/colorqueue#readme",
   "dependencies": {
-    "dotstar": "^1.0.0",
-    "firebase": "^2.4.2",
-    "pennerts": "^1.0.1",
-    "pi-spi": "^1.0.1"
+    "pennerts": "^1.0.1"
   }
 }

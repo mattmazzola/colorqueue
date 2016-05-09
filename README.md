@@ -2,6 +2,12 @@
 
 Library which takes a queue of colors and an instance of LED strip. It animates from color to color using the transition specified and sends the current color to the LED strip.
 
+## Installation
+
+```
+npm install colorqueue
+```
+
 ## Usage
 
 Mostl likely this will be used within another preconfigured setup such as (colorqueue-firebase)[]
